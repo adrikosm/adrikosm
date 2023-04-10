@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Andreas </h1>
 <h3 align="center">A passionate Data Enginner</h3>
 
-- 🌱 I’m currently learning **dbt, snowflake and dagster**
+- **DBT
+- **Azure
+- **Dagster
+- **Snowflake
 
 <h3 align="center">Languages and Tools</h3>
 
-<p align="left" padding="30">
+<p align="left">
 
 <h3> Data Engineering </h3>
 <!-- DBT -->
