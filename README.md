@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andreas </h1>
 <h3 align="center">A passionate Data Enginner</h3>
 
+<h2 align="left"> Key areas of expertise include: </h2>
 - **DBT**
 - **Azure**
 - **Dagster**
