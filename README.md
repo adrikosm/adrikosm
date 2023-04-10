@@ -73,7 +73,10 @@
  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
  
  <!-- DBT -->
- <a href="https://www.getdbt.com/" target="_blank" rel=> <img src="https://www.getdbt.com/ui/img/png/dbt-standalone-symbols-tm.png" alt="dbt" width="40" height="40"> </a>
+ <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"> </a>
+
+
+
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrikosm&show_icons=true&locale=en&layout=compact" alt="adrikosm" /></p>
