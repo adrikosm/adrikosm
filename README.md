@@ -7,15 +7,18 @@
 
 <p align="left" padding="30"> 
 
-<h3> Web tools </h3>
- <!-- Boostrap -->
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<h3> Web dev</h3>
+ <!-- HTML -->
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ &nbsp;&nbsp;
+ <!-- Javascript -->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 &nbsp;&nbsp;
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 
- <h3> Data tools </h3>
+ <h3> Data Engineering </h3>
 <!-- Flutter -->
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -24,20 +27,19 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-
+ <h3>  </h3>
  <!-- Graphql -->
  <a href="https://graphql.org" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
  
- <!-- HTML -->
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- 
- <!-- Javascript -->
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
- 
+
+ <h3> Data Science </h3>
+
  <!-- Linux -->
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
  
+
+<h3> Database </h3> 
  <!-- MONGODB -->
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
  
@@ -77,7 +79,15 @@
  <!-- DBT -->
  <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"> </a>
 
+<!-- Azure -->
+<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="azure" width="40" height="40"/> </a>
 
+
+<!-- Dagster -->
+<a href="https://dagster.io/" target="_blank" rel="noreferrer"> <img src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" alt="dagster" width="40" height="40"/> </a>
+
+<!-- Snowflake -->
+<a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="snowflake" width="40" height="40"/> </a>
 
  </p>
 
