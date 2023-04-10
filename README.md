@@ -3,18 +3,19 @@
 
 - 🌱 I’m currently learning **dbt, snowflake and dagster**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 
-<p align="left"> 
- <!-- Create a  Separation between tools -->
-<h5> Web tools </h5>
+<p align="left"> ß
+
+<h3> Web tools </h3>
  <!-- Boostrap -->
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
- 
+
+ <h3> Data tools </h3>
 <!-- Flutter -->
  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
