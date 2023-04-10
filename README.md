@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andreas </h1>
 <h3 align="center">A passionate Data Enginner</h3>
 
-- **DBT
-- **Azure
-- **Dagster
-- **Snowflake
+- **DBT**
+- **Azure**
+- **Dagster**
+- **Snowflake**
 
 <h3 align="center">Languages and Tools</h3>
 
