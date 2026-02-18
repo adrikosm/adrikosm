@@ -70,7 +70,7 @@ Beyond the pipelines, I invest in how systems are understood and adopted. I've b
 
 # 🔨 Featured Work
 
-**Enterprise Data Warehouse · Alpha FMC**
+**Enterprise Data Warehouse**
 Multi-TB Snowflake warehouse processing 2M+ records across 10+ source systems. dbt transformations with 50+ custom tests, Dagster asset-based orchestration, and Azure DevOps CI/CD with slim CI runs and blue-green deployments.
 
 **Real-Time Streaming Pipeline**
@@ -99,10 +99,13 @@ Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant
 
 # 📊 GitHub Stats:
 
-<img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=adrikosm&show_icons=true&theme=dark&hide_border=false" />
-<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrikosm&show_icons=true&theme=dark&hide_border=false" />
+  &nbsp;&nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
+</p>
 
-<br><br>
+<br>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adrikosm&theme=dark&hide_border=false" />
