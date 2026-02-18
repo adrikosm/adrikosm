@@ -24,7 +24,7 @@
 
 Data Engineer at **Alpha FMC**. I design and maintain the data infrastructure the business runs on — Snowflake warehouses processing 2M+ records across 10+ source systems, dbt transformation pipelines, Dagster orchestration, and real-time event streaming with Kafka and Spark. The work spans the full lifecycle: ingestion, transformation, quality testing, observability, and CI/CD.
 
-Beyond the pipelines, I invest in how systems are understood and adopted. I've built internal tooling that other teams use, written documentation that actually gets read, and mentored engineers joining the project. Going forward, I'm focused on growing into broader architectural ownership, deepening my cloud expertise, and contributing to open-source data tooling.
+Beyond the pipelines, I invest in how systems are understood and adopted. I've built internal tooling that other teams use, written documentation that actually gets read, and mentored engineers joining projects. Going forward, I'm focused on growing into broader architectural ownership, deepening my cloud expertise, and contributing to open-source data tooling.
 
 ---
 
