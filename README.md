@@ -1,98 +1,120 @@
-<h1 align="center">Hi 👋, I'm Andreas </h1>
-<h3 align="center">A passionate Data Enginner</h3>
+<h1 align="center">Andreas Mavropoulos</h1>
 
-<h4 align="left"> Key areas of expertise include: </h4>
-
-- **DBT**
-- **Azure**
-- **Dagster**
-- **Snowflake**
-
-<h3 align="center">Languages and Tools</h3>
-
-<p align="left">
-
-<h3> Data Engineering </h3>
-<!-- DBT -->
-<a href="https://www.getdbt.com/" target="_blank" rel="noopener noreferrer"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt" width="40" height="40"> </a>
-&nbsp;&nbsp;
-<!-- Azure -->
-<a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noopener noreferrer"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png" alt="azure" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- Dagster -->
-<a href="https://dagster.io/" target="_blank" rel="noopener noreferrer"> <img src="https://dagster.io/images/brand/logos/dagster-primary-mark.svg" alt="dagster" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- Graphql -->
-<a href="https://graphql.org" target="_blank" rel="noopener noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-
-
-<h3> Data Science </h3>
-<!-- Python -->
-<a href="https://www.python.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- Pandas -->
-<a href="https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- Pytorch -->
-<a href="https://pytorch.org/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- SKlearn -->
-<a href="https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- Tensorflow -->
-<a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-
-<h3> Web dev</h3>
-<!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- Javascript -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- CSS -->
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- React -->
-<a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- Tailwind -->
-<a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- NODE -->
-<a href="https://nodejs.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-
-<h3> Databases </h3> 
-<!-- MONGODB -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-&nbsp;&nbsp;
-<!-- Snowflake -->
-<a href="https://www.snowflake.com/" target="_blank" rel="noopener noreferrer"> <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1634190631" alt="snowflake" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- MYSQL -->
-<a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-&nbsp;&nbsp;
-<!-- POSTGRES -->
-<a href="https://www.postgresql.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-
-
-<h3> Mobile dev </h3>
-<!-- Flutter -->
-<a href="https://flutter.dev" target="_blank" rel="noopener noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-
+<p align="center">
+  <b>Data Engineer</b>&nbsp;·&nbsp;Frankfurt, Germany
 </p>
 
-<!-- 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrikosm&show_icons=true&locale=en&layout=compact" alt="adrikosm" /></p>
-&nbsp;
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrikosm&show_icons=true&locale=en" alt="adrikosm" /></p> -->
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andreas-mavropoulos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andreas-mavropoulos/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andreas-mavropoulos/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:adrikosm@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/adrikosm/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-- 📫 Or reach me via **adrikosm@gmail.com**
+---
+
+# 💫 About Me
+
+Data Engineer at **Alpha FMC**. I design and maintain the data infrastructure the business runs on — Snowflake warehouses processing 2M+ records across 10+ source systems, dbt transformation pipelines, Dagster orchestration, and real-time event streaming with Kafka and Spark. The work spans the full lifecycle: ingestion, transformation, quality testing, observability, and CI/CD.
+
+Beyond the pipelines, I invest in how systems are understood and adopted. I've built internal tooling that other teams use, written documentation that actually gets read, and mentored engineers joining the project. Going forward, I'm focused on growing into broader architectural ownership, deepening my cloud expertise, and contributing to open-source data tooling.
+
+---
+
+# 💻 Tech Stack:
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <b>Data Engineering</b><br><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <b>Orchestration & Streaming</b><br><br>
+      <img src="https://img.shields.io/badge/Dagster-6C72E0?style=for-the-badge&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><br><br>
+      <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+    </td>
+    <td valign="top" width="33%">
+      <b>Cloud & Infrastructure</b><br><br>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br><br>
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3"><br><b>Additional</b><br><br>
+      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 🔨 Featured Work
+
+**Enterprise Data Warehouse · Alpha FMC**
+Multi-TB Snowflake warehouse processing 2M+ daily records across 50+ source systems. dbt transformations with 500+ custom tests, Dagster asset-based orchestration, and Azure DevOps CI/CD with slim CI runs and blue-green deployments.
+
+**Real-Time Streaming Pipeline**
+Kafka + Spark Structured Streaming pipeline handling **50K events/minute** with exactly-once semantics, watermarking for late-arriving events, and sub-second end-to-end latency.
+
+**dbt Macro Library**
+20+ reusable Jinja macros packaged as an internal library, adopted by 5 teams across the company. Cut the SQL codebase from 15K to 6K lines and reduced new model development time by 40%.
+
+**Snowflake Cost & Performance Optimisation**
+Systematic query profiling and incremental model conversions (5TB → 50GB scans), clustering on 100M+ row tables, and warehouse right-sizing — saving **$15K/month**.
+
+**Pipeline Re-architecture · Dagster & dbt**
+Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant joins and restructuring the data flow end-to-end. Runtime reduced from **8 hours to 4 minutes** through iterative optimisations, dramatically improving turnaround per execution cycle.
+
+<br>
+
+| | |
+|---|---|
+| 💰 Snowflake cost reduction | $45K → **$30K/month** |
+| 🎯 Data quality incidents | Down **60%** · 500+ dbt tests |
+| ⚡ Real-time throughput | **50K events/min** · <1s latency |
+| 🔧 SQL codebase | **60% smaller** via reusable macro library |
+| 🤖 Migration automation | 4 hours → **7 minutes** (Snowpark) |
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrikosm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+</p>
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adrikosm&theme=dark&hide_border=false" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=adrikosm&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+<p align="center">
+  Let's connect — <a href="mailto:adrikosm@gmail.com">adrikosm@gmail.com</a>
+</p>
