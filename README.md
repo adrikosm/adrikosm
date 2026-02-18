@@ -34,26 +34,26 @@ Beyond the pipelines, I invest in how systems are understood and adopted. I've b
   <tr>
     <td valign="top" width="33%">
       <b>Data Engineering</b><br><br>
-      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br><br>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/><br>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
       <b>Orchestration & Streaming</b><br><br>
-      <img src="https://img.shields.io/badge/Dagster-6C72E0?style=for-the-badge&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><br><br>
+      <img src="https://img.shields.io/badge/Dagster-6C72E0?style=for-the-badge&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/><br>
       <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
     </td>
     <td valign="top" width="33%">
       <b>Cloud & Infrastructure</b><br><br>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br><br>
-      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><br><br>
-      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br><br>
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black"/><br>
+      <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/><br>
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     </td>
   </tr>
@@ -71,16 +71,16 @@ Beyond the pipelines, I invest in how systems are understood and adopted. I've b
 # 🔨 Featured Work
 
 **Enterprise Data Warehouse · Alpha FMC**
-Multi-TB Snowflake warehouse processing 2M+ daily records across 50+ source systems. dbt transformations with 500+ custom tests, Dagster asset-based orchestration, and Azure DevOps CI/CD with slim CI runs and blue-green deployments.
+Multi-TB Snowflake warehouse processing 2M+ records across 10+ source systems. dbt transformations with 50+ custom tests, Dagster asset-based orchestration, and Azure DevOps CI/CD with slim CI runs and blue-green deployments.
 
 **Real-Time Streaming Pipeline**
-Kafka + Spark Structured Streaming pipeline handling **50K events/minute** with exactly-once semantics, watermarking for late-arriving events, and sub-second end-to-end latency.
+Kafka + Spark Structured Streaming pipeline handling **50K events/minute**. Implements exactly-once processing, event-time watermarking to handle late-arriving data, and reliable, production-ready streaming semantics.
 
 **dbt Macro Library**
 20+ reusable Jinja macros packaged as an internal library, adopted by 5 teams across the company. Cut the SQL codebase from 15K to 6K lines and reduced new model development time by 40%.
 
 **Snowflake Cost & Performance Optimisation**
-Systematic query profiling and incremental model conversions (5TB → 50GB scans), clustering on 100M+ row tables, and warehouse right-sizing — saving **$15K/month**.
+Systematic query profiling and incremental model conversions (5TB → 50GB scans), clustering on 100M+ row tables, and warehouse right-sizing — reducing compute costs by **55%**.
 
 **Pipeline Re-architecture · Dagster & dbt**
 Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant joins and restructuring the data flow end-to-end. Runtime reduced from **8 hours to 4 minutes** through iterative optimisations, dramatically improving turnaround per execution cycle.
@@ -89,8 +89,8 @@ Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant
 
 | | |
 |---|---|
-| 💰 Snowflake cost reduction | $45K → **$30K/month** |
-| 🎯 Data quality incidents | Down **60%** · 500+ dbt tests |
+| 💰 Snowflake cost reduction | Down **55%** via query optimisation and correct warehousing |
+| 🎯 Data quality incidents | Down **60%** · 50+ dbt tests |
 | ⚡ Real-time throughput | **50K events/min** · <1s latency |
 | 🔧 SQL codebase | **60% smaller** via reusable macro library |
 | 🤖 Migration automation | 4 hours → **7 minutes** (Snowpark) |
@@ -99,19 +99,14 @@ Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrikosm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=adrikosm&theme=dark&hide_border=false" alt="GitHub Streak"/>
-</p>
+<img height=195 align="center" src="https://github-readme-stats.vercel.app/api?username=adrikosm&show_icons=true&theme=dark&hide_border=false" />
+<img height=195 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
 
----
+<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adrikosm&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adrikosm&theme=dark&hide_border=false" />
+</p>
 
 ---
 
