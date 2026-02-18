@@ -100,12 +100,8 @@ Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adrikosm&show_icons=true&theme=dark&hide_border=false" />
-  &nbsp;&nbsp;
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrikosm&layout=compact&theme=dark&hide_border=false&langs_count=8&card_width=320" />
+  <img height="165" src="./profile/stats.svg" />
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=adrikosm&theme=dark&hide_border=false" />
