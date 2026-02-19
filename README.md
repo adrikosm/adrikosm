@@ -94,7 +94,7 @@ Redesigned the core Dagster and dbt pipeline architecture, eliminating redundant
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img alt="adrikosm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/adrikosm?cardType=github&theme=dark&fontFamily=nord&preferLogin=false&hide=stars" />
+  <img alt="adrikosm's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/adrikosm?cardType=github&theme=nord&fontFamily=nord&preferLogin=false&hide=stars" />
 </p>
 
 ---
